@@ -69,7 +69,7 @@ export const experiencesData = [
     description:
       "We worked on a task manager in a BootCamp to achieve hard and soft skills. The task manager is working with React.js.",
     icon: React.createElement(FaReact),
-    date: "April 2023 until July 2023 (3 mos)",
+    date: "April 2023 - July 2023 (3 mos)",
   },
 ] as const;
 
