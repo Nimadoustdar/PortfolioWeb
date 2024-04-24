@@ -53,15 +53,7 @@ export const experiencesData = [
     description:
       "Experienced freelance developer with a successful track record at Agor Studio. Proven expertise in delivering multiple projects during this period. Demonstrated dedication and proficiency in handling various tasks and challenges. Recognized for consistently providing high-quality results and earning positive feedback from clients and colleagues. A reliable and skilled professional with a strong work ethic and a passion for producing outstanding outcomes.",
     icon: React.createElement(CgWorkAlt),
-    date: "Apr 2019 - Apr 2021 (2yrs 1 mon)",
-  },
-  {
-    title: "Front-End Developer ChatreDanesh",
-    location: "Tehran, Iran",
-    description:
-      "Experienced UI/UX designer with one year of hands-on expertise in developing an e-commerce website, encompassing front-end design and backend communication within a private company.",
-    icon: React.createElement(CgWorkAlt),
-    date: "Apr 2021 - Feb 2023 (1 yr 11 mos)",
+    date: "Apr 2020 - Apr 2023 (2yrs 1 mon)",
   },
   {
     title: "Quera bootcamp",
@@ -69,15 +61,24 @@ export const experiencesData = [
     description:
       "We worked on a task manager in a BootCamp to achieve hard and soft skills. The task manager is working with React.js.",
     icon: React.createElement(FaReact),
-    date: "April 2023 - July 2023 (3 mos)",
+    date: "Feb 2023 - Apr 2023",
   },
+  {
+    title: "Front-End Developer ChatreDanesh",
+    location: "Tehran, Iran",
+    description:
+      "Experienced UI/UX designer with one year of hands-on expertise in developing an e-commerce website, encompassing front-end design and backend communication within a private company.",
+    icon: React.createElement(CgWorkAlt),
+    date: "Apr 2023 - March 2024 ",
+  },
+ 
 ] as const;
 
 export const projectsData = [
   {
     title: "alfamonte",
     description:
-      "I worked as a Front-end developer on this startup project for 2 years. Users can give public feedback to companies.",
+      "- Sleek web solution crafted with HTML, SCSS, Swiper, Select2, and Bootstrap",
     tags: ["HTML", "jQuery", "Bootstrap ","SASS","Responsive Design"],
     imageUrl: alfa,
     hash:'https://alfamonte.ir/'
@@ -85,7 +86,7 @@ export const projectsData = [
   {
     title: "bonyadonline",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
+      "- Interactive site developed with HTML, SCSS, jQuery, Swiper, Select2, and Bootstrap.",
     tags: ["HTML", "jQuery", "Bootstrap ", "SASS","Responsive Design"],
     imageUrl: bonyad,
     hash:'https://bonyadonline.com/'
@@ -93,7 +94,7 @@ export const projectsData = [
   {
     title: "polytiz",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+      " Dynamic website using HTML, SCSS, jQuery, Swiper, Select2, and Bootstrap.",
       tags: ["HTML", "jQuery", "Bootstrap ", "SASS","Responsive Design"],
       imageUrl: polytiz,
       hash:'https://polytiz.ir/'
@@ -101,31 +102,31 @@ export const projectsData = [
   {
     title: "rahdoon",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+      "- Engaging web presence featuring HTML, SCSS, jQuery,  Swiper, Select2, Bootstrap, and SweetAlert",
       tags: ["HTML", "jQuery", "Bootstrap ", "SASS","Responsive Design"],
       imageUrl: rahdoon,
       hash:"https://rahdoon.com/"
   },
-  {
-    title: "nimafitness",
-    description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "MUI", "Responsive Design"],
-    imageUrl: fit,
-    hash:"https://nimafitness.netlify.app/"
-  },
-  {
-    title: "nimacrypto",
-    description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-      tags: ["JavaScript","React", "MUI" ,"Responsive Design"],
-      imageUrl: crypto,
-      hash:'https://nimacrypto.netlify.app/'
-  },
+  // {
+  //   title: "nimafitness",
+  //   description:
+  //     "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+  //   tags: ["React", "MUI", "Responsive Design"],
+  //   imageUrl: fit,
+  //   hash:"https://nimafitness.netlify.app/"
+  // },
+  // {
+  //   title: "nimacrypto",
+  //   description:
+  //     "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+  //     tags: ["JavaScript","React", "MUI" ,"Responsive Design"],
+  //     imageUrl: crypto,
+  //     hash:'https://nimacrypto.netlify.app/'
+  // },
   {
     title: "antbuildz",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+      "- Innovative website powered by Next.js, React, and Bootstrap.",
     tags: ["JavaScript","React", "Next.js", "Bootstrap","Responsive Design"],
     imageUrl: antbuildz,
     hash:"https://antbuildz.com/"
@@ -133,7 +134,7 @@ export const projectsData = [
   {
     title: "sivanexchange",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+      "- Modern platform built with Next.js, React, and Bootstrap.",
     tags: ["JavaScript","React", "Next.js", "Bootstrap","Responsive Design"],
     imageUrl: sivan,
     hash:"https://sivanexchange.com/en"
