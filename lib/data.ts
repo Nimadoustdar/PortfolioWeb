@@ -53,7 +53,7 @@ export const experiencesData = [
     description:
       "Experienced freelance developer with a successful track record at Agor Studio. Proven expertise in delivering multiple projects during this period. Demonstrated dedication and proficiency in handling various tasks and challenges. Recognized for consistently providing high-quality results and earning positive feedback from clients and colleagues. A reliable and skilled professional with a strong work ethic and a passion for producing outstanding outcomes.",
     icon: React.createElement(CgWorkAlt),
-    date: "Apr 2020 - Apr 2023 (2yrs 1 mon)",
+    date: "Apr 2020 - Apr 2023",
   },
   {
     title: "Quera bootcamp",
